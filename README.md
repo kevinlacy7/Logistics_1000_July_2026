@@ -100,7 +100,7 @@ If you are reviewing this project, here is where everything lives and why it mat
 | Location | What You Will Find | Why It Matters |
 |----------|-------------------|----------------|
 | **Root** | `README.md` (this file) | The full story, from business problem to action items |
-| `/data` | `dim_fleet_260.xlsx` | The fleet dimension table—truck specs, insurance, safety, maintenance |
+| `/data` | `dim_fleet_260.csv` | The fleet dimension table—truck specs, insurance, safety, maintenance |
 | `/data` | `fact_orders_1000.xlsx` | The clean operational data—1,000 shipments with timing, costs, delays, and performance flags |
 | `/data` | `fact_orders_1000_dirty.csv` | The raw data with intentional quality issues—used to validate data cleaning and ETL logic |
 | `/docs` | `dashboard_screenshot.png` | The visual summary of findings for executive review |
