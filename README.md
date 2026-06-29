@@ -111,7 +111,7 @@ If you are reviewing this project, here is where everything lives and why it mat
 1. Read the **Executive Summary** and **Key Insights** above for the narrative.
 2. Open the **Dashboard Screenshot** in `/docs` for the visual story.
 3. Reference the **Data Used** table below for file context.
-4. Download the clean data (`fact_orders_1000.xlsx`) to validate the metrics independently.
+4. Download the clean data (`fact_orders_1000.xlsx`,`dim_fleet_260.cvs`) to validate the metrics independently.
 
 ---
 
