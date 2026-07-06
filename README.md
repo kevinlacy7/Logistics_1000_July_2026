@@ -87,7 +87,7 @@ This is not about working harder. It is about removing the friction that makes t
 
 ## 📸 Dashboard
 
-![Fleet Efficiency & Delay Cost Dashboard](Screenshot 2026-06-28 214833.png)
+![Fleet Efficiency & Delay Cost Dashboard](https://drive.google.com/file/d/109x60nwib1d0o0Ts5-KMEMV7bCN_2B1R/view?usp=drive_link, Screenshot 2026-06-28 214833.png)
 
 *Dashboard components include: On-Time vs. Late Shipments, Carrier Performance Ranking, Documented Delay Reasons, and Actionable Recommendations.*
 
