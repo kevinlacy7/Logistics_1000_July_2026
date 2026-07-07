@@ -87,12 +87,12 @@ This is not about working harder. It is about removing the friction that makes t
 
 ## 📸 Dashboard
 
-## Fleet Efficiency & Delay Cost Dashboard
+## 📸 Fleet Efficiency & Delay Cost Dashboard
 
-📎 **Live Dashboard:** [Download Excel Dashboard](./dashboard.xlsx) 
+📎 **Live Dashboard:** [⬇️ Download Excel File](./dashboard.xlsx)
 
-📸 **Preview:**
-![Dashboard Screenshot](https://your-image-url-here.png)
+📸 **Interactive Preview** (click to zoom):
+[![Dashboard Preview](./dashboard-preview.png)](./dashboard-preview.png)
 
 *Dashboard components include: On-Time vs. Late Shipments, Carrier Performance Ranking, Documented Delay Reasons, and Actionable Recommendations.*
 
