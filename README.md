@@ -89,7 +89,7 @@ This is not about working harder. It is about removing the friction that makes t
 
 ## Fleet Efficiency & Delay Cost Dashboard
 
-📎 **Live Dashboard:** (Synth_Data_NEW_DASHBOARD_3_20_2026_1000 New.xlsx)
+📎 **Live Dashboard:** [Download Excel Dashboard](./dashboard.xlsx)
 
 📸 **Preview:**
 ![Dashboard Screenshot](https://your-image-url-here.png)
